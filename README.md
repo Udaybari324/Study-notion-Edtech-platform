@@ -1,7 +1,5 @@
 # 🚀 StudyNotion – EdTech Platform
 
-![StudyNotion Logo](https://github.com/Uday-Bar/Study-Notion-EdTech__MERN-Stack/blob/main/frontend/src/assets/Logo/Logo-Full-Light.png)
-
 **StudyNotion** is a modern, full-featured **EdTech platform** built using the **MERN stack**. It allows instructors to create and manage courses, while students can explore, purchase, and learn interactively.
 
 🌐 **Live Demo**: [https://study-notion-full-stack.vercel.app/](https://study-notion-full-stack.vercel.app/)

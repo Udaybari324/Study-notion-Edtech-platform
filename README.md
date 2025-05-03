@@ -63,19 +63,20 @@
 ```bash
 git clone https://github.com/Uday-Bar/Study-Notion-EdTech__MERN-Stack.git
 cd Study-Notion-EdTech__MERN-Stack
-
-2. Install Frontend Dependencies
 ```
+2. Install Frontend Dependencies
+```bash
 cd frontend
 npm install
-
+```
 3. Install Backend Dependencies
+```bash
 cd ../backend
 npm install
-
-4. Set Up Environment Variables
+```
+5. Set Up Environment Variables
 Create a .env file in the backend folder with the following:
-
+```bash
 PORT=5000
 MONGODB_URL=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
@@ -84,16 +85,23 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 RAZORPAY_KEY=your_razorpay_key
 RAZORPAY_SECRET=your_razorpay_secret
-
+```
 
 5. Start the Application
+
 Start Backend:
-
+```bash
 npm start
-
-Start Frontend (in another terminal):
+```
+Start Frontend:
+```bash
 cd frontend
 npm run dev
+```
+
+This project is built and maintained by Uday Bari
+
+
 
 
 

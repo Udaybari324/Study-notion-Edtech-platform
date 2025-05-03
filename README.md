@@ -41,7 +41,7 @@
 
 ### Backend:
 - Node.js + Express.js
-- MongoDB + Mongoose
+- MongoDB
 - Razorpay API, Cloudinary API
 
 ---
@@ -53,16 +53,14 @@
 - **Database** – MongoDB for storing user, course, and review data.
 - **Cloudinary** – Used to manage and store images, videos, and files.
 
-![Architecture](https://github.com/Uday-Bar/Study-Notion-EdTech__MERN-Stack/blob/main/screenshots/Architecture%20Diagram.png)
-
 ---
 
 ## 🧾 How to Run Locally
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Uday-Bar/Study-Notion-EdTech__MERN-Stack.git
-cd Study-Notion-EdTech__MERN-Stack
+git clone https://github.com/Udaybari324/Study-notion-Edtech-platform.git
+cd Study-notion-Edtech-platform
 ```
 2. Install Frontend Dependencies
 ```bash
@@ -100,8 +98,4 @@ npm run dev
 ```
 
 This project is built and maintained by Uday Bari
-
-
-
-
 

@@ -267,3 +267,5 @@ Utilized several React hooks for efficient state management and dynamic behavior
 
 
  
+#   S t u d y - n o t i o n - E d t e c h - p l a t f o r m  
+ 

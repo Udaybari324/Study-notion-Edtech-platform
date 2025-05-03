@@ -130,7 +130,7 @@ const Navbar = () => {
                                                             ))}
                                                         </>
                                                     ) : (
-                                                        <p className="text-center">No Courses Found</p>
+                                                        <p className="text-center">Under Maintaince</p>
                                                     )}
                                             </div>
                                         </div>

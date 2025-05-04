@@ -6,7 +6,7 @@
 
 **StudyNotion** is a modern, full-featured **EdTech platform** built using the **MERN stack**. It allows instructors to create and manage courses, while students can explore, purchase, and learn interactively.
 
-🌐 **Live Demo**: 
+🌐 **Live Demo**: https://study-notion-edtech-platform-olive.vercel.app/ 
 
 ---
 

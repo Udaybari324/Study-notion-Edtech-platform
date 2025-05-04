@@ -53,7 +53,10 @@ app.use('/api/v1/payment', paymentRoutes);
 app.use('/api/v1/course', courseRoutes);
 
 
-
+// Health Check Route (optional)
+app.get('/health', (req, res) => {
+    res.status(200).send('OK');
+});
 
 // Default Route
 app.get('/', (req, res) => {
